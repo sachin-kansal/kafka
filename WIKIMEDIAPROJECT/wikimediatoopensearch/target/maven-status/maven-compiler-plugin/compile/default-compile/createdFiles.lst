@@ -1,0 +1,14 @@
+com\wikimedia\BsicProducer.class
+com\wikimedia\BasicConsumer$1.class
+com\wikimedia\WikiProducer.class
+com\wikimedia\myconnectors\Mydataschema.class
+com\wikimedia\BasicConsumer.class
+com\wikimedia\myconnectors\MySourceConnectorConfig.class
+com\wikimedia\CommonCallback$1.class
+com\wikimedia\myconnectors\validators\TopicLength.class
+com\wikimedia\KafkaTopic.class
+com\wikimedia\CommonCallback.class
+com\wikimedia\MyEventHandeler.class
+com\wikimedia\myconnectors\MyConnectorTask.class
+com\mongo\MongoConnector.class
+com\wikimedia\myconnectors\Custom_Source_connector.class
